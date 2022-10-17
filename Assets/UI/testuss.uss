@@ -1,0 +1,25 @@
+.unity-button {
+    /*border-left-color: rgba(0, 0, 0, 255);
+    border-right-color: rgba(0, 0, 0, 255);
+    border-top-color: rgba(0, 0, 0, 255);
+    border-bottom-color: rgba(0, 0, 0, 255);
+    background-color: rgba(217, 217, 217, 255);*/
+}
+
+Button {
+    background-color: rgba(221, 161, 94, 255);
+    border-left-color: rgba(0, 0, 0, 255);
+    border-right-color: rgba(0, 0, 0, 255);
+    border-top-color: rgba(0, 0, 0, 255);
+    border-bottom-color: rgba(0, 0, 0, 255);
+
+}
+
+Button:hover {
+    background-color: rgba(212, 153, 107, 255);
+}
+
+Button:active {
+    background-color: rgba(176, 136, 105, 255);
+}
+

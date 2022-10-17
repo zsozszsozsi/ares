@@ -1,0 +1,2 @@
+[0417/183651.881:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: A hozzáférés megtagadva. (0x5)
+[0417/183651.973:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: A hozzáférés megtagadva. (0x5)
